@@ -14,7 +14,7 @@ class Dot {
 
     // pick a random color
     // take a random pretty hue
-    int hue = (prettyHues[int(random(0, prettyHues.length-1))])%360;
+    int hue = (hues[int(random(0, hues.length-1))])%360;
     float sat = random(30, 50);
     float bri = random(90, 100);
     c = color(hue, sat, bri);
