@@ -23,7 +23,7 @@ class Dot {
     size = random(50, 60);
 
     // pick random rotation strength
-    rotate = random(0.05);
+    rotate = random(0.15);
 
     // pick a random speed or movement
     speed = random(2, 5);
