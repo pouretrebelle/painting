@@ -20,7 +20,7 @@ class Dot {
     c = color(hue, sat, bri);
 
     // pick a random size
-    size = random(50, 100);
+    size = random(50, 60);
 
     // pick random rotation strength
     rotate = random(0.05);

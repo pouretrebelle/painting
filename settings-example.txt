@@ -1,5 +1,0 @@
-int screenWidth = 1000;
-int screenHeight = 1000;
-int dotCount = 50;
-int[] hues = {2, 10, 17, 37, 40, 63, 67, 72, 74, 148, 152, 156, 160, 170, 175, 189, 194, 260, 270, 280, 288, 302, 320, 330, 340, 350};
-Dot[] dots = new Dot[dotCount];
